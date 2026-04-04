@@ -1,1 +1,3 @@
 .venv
+backtests
+__pycache__
